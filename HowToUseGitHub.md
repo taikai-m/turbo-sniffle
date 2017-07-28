@@ -80,7 +80,7 @@ Are you sure you want to continue connecting (yes/no)?
 Hi username! You've successfully authenticated, but GitHub does not
 provide shell access.
 ```
-# ３-a．任意のプロジェクトを新規リポジトリとして登録(既存リポジトリを利用する場合は3-aへ)
+# ３-a．任意のプロジェクトを新規リポジトリとして登録(既存リポジトリを利用する場合は3-bへ)
 Android Studioを起動し、新規リポジトリとして登録したいプロジェクトを開いておく。
 
 画面上部のVCSメニューから
