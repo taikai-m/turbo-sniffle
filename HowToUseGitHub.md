@@ -1,6 +1,7 @@
 # GitHubの使い方
 
-※Android Studio及びSourceTreeが既にインストール済み、GitHubへ登録済みが前提の手順です。
+* Android Studio及びSourceTreeが既にインストール済み、GitHubへ登録済みが前提の手順です。
+* Source Tree([公式サイト](https://ja.atlassian.com/software/sourcetree))
 
 手順は以下の通り
 1. 秘密鍵・公開鍵の作成
