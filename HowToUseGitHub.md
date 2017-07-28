@@ -72,7 +72,7 @@ $ ssh -T git@github.com
 つぎのように表示されたら、yes と入力。
 ```
 The authenticity of host 'github.com (207.97.227.239)' can't be established.
-RSA key fingerprint is 16:27:ac:a5:76:28:2d:36:63:1b:56:4d:eb:df:a6:48.
+RSA key fingerprint is xx:xx:xx:xx:xx:xx:xx:xx:xx:xx:xx:xx:xx:xx:xx:xx.
 Are you sure you want to continue connecting (yes/no)?
 ```
 接続に成功すると、つぎのようなメッセージが表示される。
